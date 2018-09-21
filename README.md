@@ -16,7 +16,7 @@ sb4393@nyu.edu | Portfolio:https://tinyurl.com/y7mhksev | GitHub:@arcturusInk  |
 
 **Tools:** Git, IntelliJ, Notepad++, Photoshop, Axure
 
-**Languages:** Bengali, English **Hobby:** Photography (@arcturusInk)
+**Languages:** Bengali, English **Hobby:** Photography (Instagram @arcturusInk)
 
 ### EXPERIENCE
 __Lead Instructor **–** Girls Who Code,__ Jersey City, NJ | Summer 2018
