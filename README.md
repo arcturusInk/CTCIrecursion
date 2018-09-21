@@ -9,7 +9,7 @@ sb4393@nyu.edu | Portfolio:https://tinyurl.com/y7mhksev | GitHub:@arcturusInk  |
 
 Bachelor of Science in Computer Science, Minor in Integrated Digital Media (Design)
 
-**Achievements:** 2018 Trivago Tech Camp 2.0, 2018 MongoDB World Diversity Scholarship, 2018 Grow with Google Scholarship (Android Development), 2017 Forbes Under 30 Scholar, 2017 Google’s Women TechMakers, 2017 NSF I-Corps, NYU 2016 Grace Hopper Conference Scholarship, 2016 - 2017 TRIO Grant, 2013 - 2017 UFT Scholarship Fund
+**Achievements:** *2018 Trivago Tech Camp 2.0, 2018 MongoDB World Diversity Scholarship, 2018 Grow with Google Scholarship (Android Development), 2017 Forbes Under 30 Scholar, 2017 Google’s Women TechMakers, 2017 NSF I-Corps, NYU 2016 Grace Hopper Conference Scholarship, 2016 - 2017 TRIO Grant, 2013 - 2017 UFT Scholarship Fund*
 
 ### SKILLS
 **Computer Languages:** Java, MySQL, Python, JavaScript, PHP, HTML/CSS
@@ -64,5 +64,5 @@ __Youth Board Member – Girls Write Now, INC,__ NY, NY | Fall 2013 – Fall 201
 
 
 ### PROJECTS
-- EventTracker (Java, XML): Android app allows users to see a list of events, view information about single events, and add/delete new events
-- NYURoommates (Bootstrap Framework, PHP, MySQL): Application to find potential roommates among the NYU School of Engineering
+- *EventTracker* (Java, XML): Android app allows users to see a list of events, view information about single events, and add/delete new events
+- *NYURoommates* (Bootstrap Framework, PHP, MySQL): Application to find potential roommates among the NYU School of Engineering
