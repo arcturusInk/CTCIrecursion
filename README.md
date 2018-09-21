@@ -5,9 +5,9 @@ Posting my solution to problems from CTCI for the recursion chapter
 sb4393@nyu.edu | Portfolio:https://tinyurl.com/y7mhksev | GitHub:@arcturusInk  | NY, NY
 
 ### EDUCATION
-**New York University Tandon School of Engineering** – Brooklyn, NY 2018
+**New York University Tandon School of Engineering** – Brooklyn, NY | January 2018
 
-Bachelor of Science in Computer Science, Minor in Integrated Digital Media (Design)
+**Bachelor of Science in Computer Science, Minor in Integrated Digital Media (Design)**
 
 **Achievements:** *2018 Trivago Tech Camp 2.0, 2018 MongoDB World Diversity Scholarship, 2018 Grow with Google Scholarship (Android Development), 2017 Forbes Under 30 Scholar, 2017 Google’s Women TechMakers, 2017 NSF I-Corps, NYU 2016 Grace Hopper Conference Scholarship, 2016 - 2017 TRIO Grant, 2013 - 2017 UFT Scholarship Fund*
 
