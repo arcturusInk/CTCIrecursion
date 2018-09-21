@@ -60,10 +60,15 @@ Fellow **–** The Impact Fellowship, NY, NY | Winter 2018
     entrepreneurs
 - Ideated a wristband that gave visually impaired persons greater access to mobility via echolocation for a team project
 
-Volunteer Instructor **–** Girls Who Code, Staten Island, NY|  Fall 2014
+Volunteer Instructor **–** Girls Who Code, Staten Island, NY | Fall 2014
 
 - Taught a project-based curriculum to about 25 high school girls and boys for more than 32 hours
 - Taught fundamental programming concepts and provided debugging feedbacks
+
+Youth Board Member – Girls Write Now, INC, NY, NY | Fall 2013 – Fall 2015
+- Wrote proposals that met mentee’s needs and could easily be implemented by alumnae
+- Informed Board Members about GWN’s activities and offered perspective from a former mentee
+
 
 ### PROJECTS
 - EventTracker (Java, XML): Android app allows users to see a list of events, view information about single events, and
