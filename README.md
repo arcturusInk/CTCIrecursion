@@ -5,36 +5,30 @@ Posting my solution to problems from CTCI for the recursion chapter
 sb4393@nyu.edu | Portfolio:https://tinyurl.com/y7mhksev | GitHub:@arcturusInk  | NY, NY
 
 ### EDUCATION
-New York University Tandon School of Engineering – Brooklyn, NY 2018
+**New York University Tandon School of Engineering** – Brooklyn, NY 2018
 
 Bachelor of Science in Computer Science, Minor in Integrated Digital Media (Design)
 
-Achievements: 2018 Trivago Tech Camp 2.0, 2018 MongoDB World Diversity Scholarship, 2018 Grow with Google Scholarship (Android Development), 2017 Forbes Under 30 Scholar, 2017 Google’s Women TechMakers, 2017 NSF I-Corps, NYU 2016 Grace Hopper Conference Scholarship, 2016 - 2017 TRIO Grant, 2013 - 2017 UFT Scholarship Fund
+**Achievements:** 2018 Trivago Tech Camp 2.0, 2018 MongoDB World Diversity Scholarship, 2018 Grow with Google Scholarship (Android Development), 2017 Forbes Under 30 Scholar, 2017 Google’s Women TechMakers, 2017 NSF I-Corps, NYU 2016 Grace Hopper Conference Scholarship, 2016 - 2017 TRIO Grant, 2013 - 2017 UFT Scholarship Fund
 
 ### SKILLS
-Computer Languages: Java, MySQL, Python, JavaScript, PHP, HTML/CSS
+**Computer Languages:** Java, MySQL, Python, JavaScript, PHP, HTML/CSS
 
-Tools: Git, IntelliJ, Notepad++, Photoshop, Axure
+**Tools:** Git, IntelliJ, Notepad++, Photoshop, Axure
 
-Languages: Bengali, English Hobby: Photography (@arcturusInk)
+**Languages:** Bengali, English **Hobby:** Photography (@arcturusInk)
 
 ### EXPERIENCE
 Lead Instructor **–** Girls Who Code, Jersey City, NJ | Summer 2018
 
 - Lead a group of 20 high school girls and 1 Teaching Assistant on a 7-week curriculum at JPMorgan Chase site
-- Taught computer science fundamentals such as: basic data structures, function, loops, conditionals and variables in the
-    context of Data Science, Web Dev, Robotics, Python and Scratch
-- Provided feedback on debugging individual/group coding projects, demos, execution of technical implementation, scope
-    of projects, design decisions, ideation and presentation skills/format
-- Maintained correspondence with Girls Who Code and JPMorgan Chase to coordinate classroom logistics, facilitate
-    speaker series, and chaperone field trips
-
-
+- Taught computer science fundamentals such as: basic data structures, function, loops, conditionals and variables in the context of Data Science, Web Dev, Robotics, Python and Scratch
+- Provided feedback on debugging individual/group coding projects, demos, execution of technical implementation, scope of projects, design decisions, ideation and presentation skills/format
+- Maintained correspondence with Girls Who Code and JPMorgan Chase to coordinate classroom logistics, facilitate speaker series, and chaperone field trips
 
 Robotic Process Automation (RPA) Intern **–** Travelers Insurance, Hartford, CT | Summer 2017
 
-- Delivered an RPA process that automated interactions between applications such as random.org, Single Sign On,
-    Automation Anywhere (AA) and Traveler’s internal password resetting sites to set/reset passwords in VMs
+- Delivered an RPA process that automated interactions between applications such as random.org, Single Sign On, Automation Anywhere (AA) and Traveler’s internal password resetting sites to set/reset passwords in VMs
 - Created 5 TaskBots and 3 MetaBots using AA according to specifications provided by the Tech Lead Consultant
 - Applied concepts such as regex, error handling/exceptions, unit testing and modularizing to RPA
 - Used Java to parse files and coded an algorithm that compared matching strings between two files
@@ -43,8 +37,7 @@ Robotic Process Automation (RPA) Intern **–** Travelers Insurance, Hartford, C
 Undergraduate Summer Researcher – New York University, Brooklyn, NY | Summer 2016
 
 - Plotted and programmed Tandon’s history in an augmenting reality interface using Layar’s API
-- Implemented table definitions according to Layar’s specifications and project’s needs, sorted through Poly’s archive to
-    identify relevant data points, wrote insertion queries and executed other queries using PHP’s prepared statements
+- Implemented table definitions according to Layar’s specifications and project’s needs, sorted through Poly’s archive to identify relevant data points, wrote insertion queries and executed other queries using PHP’s prepared statements
 - Wrote a seven page documentation of the whole project, published an abstract and presented in a poster session
 
 Calculus II Tutor – New York University, Brooklyn, NY | Fall 2014 – Fall 2016
@@ -71,10 +64,5 @@ Youth Board Member – Girls Write Now, INC, NY, NY | Fall 2013 – Fall 2015
 
 
 ### PROJECTS
-- EventTracker (Java, XML): Android app allows users to see a list of events, view information about single events, and
-    add/delete new events
-- NYURoommates (Bootstrap Framework, PHP, MySQL): Application to find potential roommates among the NYU
-    School of Engineering
-
-
-
+- EventTracker (Java, XML): Android app allows users to see a list of events, view information about single events, and add/delete new events
+- NYURoommates (Bootstrap Framework, PHP, MySQL): Application to find potential roommates among the NYU School of Engineering
