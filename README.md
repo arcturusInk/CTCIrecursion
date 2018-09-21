@@ -29,11 +29,7 @@ Lead Instructor **–** Girls Who Code, Jersey City, NJ | Summer 2018
 - Maintained correspondence with Girls Who Code and JPMorgan Chase to coordinate classroom logistics, facilitate
     speaker series, and chaperone field trips
 
-Fellow **–** The Impact Fellowship, NY, NY | Winter 2018
 
-- One of thirty-five fellows selected out of hundreds of applicants in a fellowship inspiring the next generation of social
-    entrepreneurs
-- Ideated a wristband that gave visually impaired persons greater access to mobility via echolocation for a team project
 
 Robotic Process Automation (RPA) Intern **–** Travelers Insurance, Hartford, CT | Summer 2017
 
@@ -56,11 +52,18 @@ Calculus II Tutor – New York University, Brooklyn, NY | Fall 2014 – Fall 201
 - Provided individual tutoring to four undergraduates over the course of three semesters
 - Instructed for about sixty-four hours according to students’ strengths and needs
 
+### LEADERSHIP
+
+Fellow **–** The Impact Fellowship, NY, NY | Winter 2018
+
+- One of thirty-five fellows selected out of hundreds of applicants in a fellowship inspiring the next generation of social
+    entrepreneurs
+- Ideated a wristband that gave visually impaired persons greater access to mobility via echolocation for a team project
+
 Volunteer Instructor **–** Girls Who Code, Staten Island, NY|  Fall 2014
 
 - Taught a project-based curriculum to about 25 high school girls and boys for more than 32 hours
 - Taught fundamental programming concepts and provided debugging feedbacks
-
 
 ### PROJECTS
 - EventTracker (Java, XML): Android app allows users to see a list of events, view information about single events, and
