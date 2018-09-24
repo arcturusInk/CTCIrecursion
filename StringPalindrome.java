@@ -5,6 +5,7 @@ package com.company;
 //Time Complexity: O(n)
 public class StringPalindrome {
 
+    //using recursion
     public static boolean isPalindrome (String s){
         if(s.length() == 1 || s.length() == 0){
             return true;
@@ -15,15 +16,25 @@ public class StringPalindrome {
         return false;
     }
 
+    //solving using the iterative method
+    public static boolean isPal(String s){
+        for(int i = 0; i < s.length()/2; ++i){
+            if(s.toLowerCase().charAt(i) != s.toLowerCase().charAt(s.length()-i-1)){
+                return false;
+            }
+        }
+        return true;
+    }
+
     public static void main(String[] args) {
         //String word = "motor";
         String word = "rotor";
         //String word = "Anna";
 
-        if(isPalindrome(word)){
-            System.out.print(word + " is a palindrome");
+        if(isPalindrome(word) && isPal(word)){
+            System.out.println(word + " is a palindrome");
         }else{
-            System.out.print(word + " is not a palindrome");
+            System.out.println(word + " is not a palindrome");
         }
     }
 }
